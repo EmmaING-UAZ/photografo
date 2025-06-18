@@ -1,1 +1,1 @@
-# photografo
+# photograf
